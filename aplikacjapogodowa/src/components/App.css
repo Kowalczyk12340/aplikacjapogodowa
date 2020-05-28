@@ -1,0 +1,30 @@
+.App input
+{
+    margin: 40px;
+    padding: 20px 40px;
+    border: 3px solid darkgray;
+    background-color: #fff;
+    transition: .3s
+}
+
+.App button
+{
+    margin: 20px;
+    padding: 10px 20px;
+    border: 2px solid darkgray;
+    background-color: #fff;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.App button:hover
+{
+    background-color: #000;
+    color: #fff;
+    border-color: black;
+}
+
+.writer
+{
+    font-size: 21px;
+}

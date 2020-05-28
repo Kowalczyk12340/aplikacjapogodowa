@@ -1,0 +1,25 @@
+.result
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 21px;
+    color: white;
+    text-decoration-style: dashed;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+}
+
+.result h3, .result h4
+{
+    font-weight: normal;
+    font-size: 21px;
+    color: white;
+}
+
+.result em
+{
+    font-weight: bold;
+    color: white;
+}
